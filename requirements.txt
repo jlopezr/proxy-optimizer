@@ -1,0 +1,7 @@
+fastapi
+httpx
+uvicorn
+csscompressor
+jsmin
+Pillow
+pillow-avif-plugin
