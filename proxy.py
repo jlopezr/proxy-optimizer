@@ -19,8 +19,6 @@ async def proxy(request: Request, path: str):
 
     response = await client.request(method, url, headers=headers, content=body)
 
-    
-
     # Check if the request ends in .css
     if url.endswith(".css") and response.status_code == 200:
         print("CSS file detected")

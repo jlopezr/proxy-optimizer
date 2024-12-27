@@ -5,3 +5,4 @@ csscompressor
 jsmin
 Pillow
 pillow-avif-plugin
+sanic
