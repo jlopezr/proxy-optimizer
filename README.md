@@ -4,6 +4,10 @@ Example of a transparent CSS/JS/Image optimizer proxy.
 
 ---
 
+![cache-algorithm](./cache-algorithm.png)
+
+---
+
 Example of a Traefik Go middleware that does something similar as a reference:
 
 ```go
